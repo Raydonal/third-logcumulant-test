@@ -6,11 +6,6 @@ Repository for the paper *"Discriminating between the Weibull and log-normal dis
 
 The Weibull and log-normal lifetime models are widely used and often fit the same data well, which makes the choice between them hard in small samples.
 
-We propose a test of the log-normal against the Weibull based on the **third log-cumulant**, which is
-
-- **zero** for every log-normal distribution, and
-- **−2ζ(3)/β³ < 0** for every Weibull distribution with shape parameter β.
-
 The sign of this log-cumulant has a geometric reading in the log-cumulant diagram. The statistic standardises the bias-corrected sample third log-cumulant and, by invariance under the group of transformations x ↦ b·xᶜ, has a parameter-free distribution under both families.
 
 ## Highlights
@@ -24,28 +19,7 @@ The sign of this log-cumulant has a geometric reading in the log-cumulant diagra
 
 Mellin transform · log-cumulants · skewness test · model discrimination · invariant tests · reliability
 
-## Repository contents
 
-```
-.
-├── README.md
-├── paper/            # LaTeX source and compiled PDF of the article
-├── code/             # Test statistic, bias correction, Monte Carlo experiments
-├── data/             # Classical life data sets used in the applications
-└── figures/          # Log-cumulant diagram, power and PCS plots
-```
-
-## How to cite
-
-```bibtex
-@article{santos2026weibulllognormal,
-  title   = {Discriminating between the Weibull and log-normal distributions
-             with a test based on the third log-cumulant},
-  author  = {Santos, Caio C. F. and Ospina, Raydonal},
-  year    = {2026},
-  note    = {Preprint}
-}
-```
 
 ## Authors
 
