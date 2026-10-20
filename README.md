@@ -24,8 +24,7 @@ Mellin transform · log-cumulants · skewness test · model discrimination · in
 ## Authors
 
 - **Caio C. F. Santos** — [ORCID 0009-0003-6410-8854](https://orcid.org/0009-0003-6410-8854) — contact: [caio.franca@ufpe.br](mailto:caio.franca@ufpe.br)
-- **Raydonal Ospina** — [ORCID 0000-0002-9884-9090](https://orcid.org/0000-0002-9884-9090)
-
+- **Raydonal Ospina** — [ORCID 0000-0002-9884-9090](https://orcid.org/0000-0002-9884-9090) — contact: [raydonal@de.ufpe.br](mailto:raydonal@de.ufpe.br)
 ## License
 
 To be chosen by the authors (e.g., MIT for the code; CC BY 4.0 for the paper).
